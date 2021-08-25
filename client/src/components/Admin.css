@@ -1,0 +1,28 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .imgadmin {
+      width: 90px;
+      height: inherit;
+  }
+  .btn_20width{
+width: 70px;
+  }
+
+  .edit_delete{
+      display: flex;
+      width: 150px;
+      justify-content: space-between;
+  }

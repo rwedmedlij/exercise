@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: fit-content;
+    max-width: 1200px;
+}
+.all__items{
+    width: fit-content;
+}

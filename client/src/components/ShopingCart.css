@@ -1,0 +1,24 @@
+.shoping__cart{
+    position: absolute;
+    right: 0px;
+    margin-right: 20px;
+    margin-top: -20px;
+}
+.btn__width{
+    width: 200px;
+}
+.right__btn{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.circl__carts{
+    width: fit-content;
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 999px;
+}
+.card__btn:hover>.circl__carts{
+    border: 1px solid lightcoral;
+}
